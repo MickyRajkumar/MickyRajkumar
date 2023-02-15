@@ -20,9 +20,12 @@
 <b>My GitHub Stats</b>
 
 <div >
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MickyRajkumar&count_private=trueshow_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickyRajkumar&langs_count=8&theme=dark)](https://github.com/MickyRajkumar/github-readme-stats)
 
 </div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MickyRajkumar&theme=dark)](https://git.io/streak-stats)
+
