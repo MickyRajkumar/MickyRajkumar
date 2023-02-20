@@ -17,5 +17,5 @@
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MickyRajkumar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MickyRajkumar&theme=dark)](https://github.com/MickyRajkumar/github-readme-stats)
 
