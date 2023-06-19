@@ -4,7 +4,7 @@
 - 👯 I’m open to collaborate
 - 🌍 Imphal, Manipur, India
 - :mailbox: [mickyrajkumar@gmail.com](mailto:mickyrajkumar@gmail.com)
-- 🖧 : [www.mickyrajkumar.tech](mickyrajkumar.tech)
+- 🖧 [www.mickyrajkumar.tech](mickyrajkumar.tech)
 
 --------------------------------------
 
